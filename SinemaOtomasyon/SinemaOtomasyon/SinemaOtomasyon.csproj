@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0E80E39C-03C2-498B-83F1-680E7CA21DAD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SinemaOtomasyon</RootNamespace>
+    <AssemblyName>SinemaOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\BiletSatis.cs" />
+    <Compile Include="Class\Calisan.cs" />
+    <Compile Include="Class\film.cs" />
+    <Compile Include="Class\Genel.cs" />
+    <Compile Include="Class\Kampanya.cs" />
+    <Compile Include="Class\Salon.cs" />
+    <Compile Include="Class\Salonsec.cs" />
+    <Compile Include="Class\seans.cs" />
+    <Compile Include="Class\Sorgulama.cs" />
+    <Compile Include="frmAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnaSayfa.Designer.cs">
+      <DependentUpon>frmAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBiletSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBiletSatis.Designer.cs">
+      <DependentUpon>frmBiletSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFilmEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFilmEkle.Designer.cs">
+      <DependentUpon>frmFilmEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKullaniciGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKullaniciGirisi.Designer.cs">
+      <DependentUpon>frmKullaniciGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParolamiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParolamiUnuttum.Designer.cs">
+      <DependentUpon>frmParolamiUnuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalonSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalonSec.Designer.cs">
+      <DependentUpon>frmSalonSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSatisRaporlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSatisRaporlama.Designer.cs">
+      <DependentUpon>frmSatisRaporlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYaziciGonder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYaziciGonder.Designer.cs">
+      <DependentUpon>frmYaziciGonder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYeniSifreOluştur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYeniSifreOluştur.Designer.cs">
+      <DependentUpon>frmYeniSifreOluştur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYoneticiGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYoneticiGirisi.Designer.cs">
+      <DependentUpon>frmYoneticiGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAnaSayfa.resx">
+      <DependentUpon>frmAnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBiletSatis.resx">
+      <DependentUpon>frmBiletSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFilmEkle.resx">
+      <DependentUpon>frmFilmEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKullaniciGirisi.resx">
+      <DependentUpon>frmKullaniciGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParolamiUnuttum.resx">
+      <DependentUpon>frmParolamiUnuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalonSec.resx">
+      <DependentUpon>frmSalonSec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSatisRaporlama.resx">
+      <DependentUpon>frmSatisRaporlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYaziciGonder.resx">
+      <DependentUpon>frmYaziciGonder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYeniSifreOluştur.resx">
+      <DependentUpon>frmYeniSifreOluştur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYoneticiGirisi.resx">
+      <DependentUpon>frmYoneticiGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\arkaplan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\anasayfa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="image\40998218-cancel-icon-delete-button-Stock-Vector.jpg" />
+    <Content Include="image\iSync.png" />
+    <Content Include="image\Perfekt-Icon.png" />
+    <Content Include="image\y.jpg" />
+    <Content Include="image\yenile.png" />
+    <None Include="Resources\090638-blue-jelly-icon-signs-first-aid.png" />
+    <None Include="Resources\40998218-cancel-icon-delete-button-Stock-Vector.jpg" />
+    <None Include="Resources\iSync.png" />
+    <None Include="Resources\iu.png" />
+    <None Include="Resources\Home.png" />
+    <None Include="Resources\9188382-refresh-steel-glosssy-icon-Stock-Photo-icon.jpg" />
+    <None Include="Resources\sync-button.jpg" />
+    <None Include="Resources\conversion-rate-isync-icon1.jpg" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\conversion-rate-isync-icon.jpg" />
+    <None Include="Resources\Perfekt-Icon.png" />
+    <None Include="Resources\35038517-Update-icon-glossy-red-round-button-Stock-Photo.jpg" />
+    <None Include="Resources\39043159-Reply-rotate-arrow-icon-red-square-button-Stock-Photo.jpg" />
+    <None Include="Resources\35973060-Buy-red-glossy-round-button-Stock-Photo.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\9396080-Pulsante-Aggiorna-lucido-Archivio-Fotografico.jpg" />
+    <None Include="Resources\usability.png" />
+    <None Include="Resources\oui.png" />
+    <None Include="Resources\rounded_blue_refresh_button_4808.jpg" />
+    <None Include="Resources\38696078-Save-floppy-disk-icon-purple-square-button-Stock-Photo.jpg" />
+    <None Include="Resources\login1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,384 @@
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+c:\users\wissen\documents\visual studio 2012\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\04.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+E:\login\dosyalar\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\Nesrin Ulgay\Desktop\Kurs\09.05.2016\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\wissen\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\wissen\Desktop\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\wissen\Desktop\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Nesrin Ulgay\Desktop\Kurs\13.0502016\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Nesrin Ulgay\Desktop\Kurs\13.0502016\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Nesrin Ulgay\Desktop\Kurs\13.0502016\13.05\New folder\sinema12.05\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\Nesrin Ulgay\Desktop\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\SEMİH ALTIN\Desktop\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+D:\$RECYCLE.BIN\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\wissen\Desktop\projesonhali\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\wissen\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\resimler\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\SEMİH ALTIN\Desktop\son.20.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+D:\$RECYCLE.BIN\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\student\Desktop\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\SEMİH ALTIN\Desktop\hande\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Nesrin Ulgay\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYaziciGonder.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYaziciGonder.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\wissen\Desktop\snemaaa\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSatisRaporlama.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSatisRaporlama.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYaziciGonder.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\wissen\Desktop\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSatisRaporlama.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYaziciGonder.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+D:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSatisRaporlama.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYaziciGonder.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\wissen\Desktop\SEMİH\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSatisRaporlama.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYaziciGonder.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+E:\$RECYCLE.BIN\sonnn\son.22.05.2012\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmAnaSayfa.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmBiletSatis.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmFilmEkle.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmKullaniciGirisi.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SifreUnuttum.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSalonSec.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmSatisRaporlama.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYaziciGonder.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYeniSifreOluştur.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.frmYoneticiGirisi.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\wissen\Desktop\MS-Yaz-10 Ortak\WinProjects\Nesrin,Semih,Hande\CİNEWİSSEN\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
